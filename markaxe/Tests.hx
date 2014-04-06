@@ -1,3 +1,5 @@
+package markaxe;
+
 class Tests {
 
 	static function eq( f : String, out : String, ?pos : haxe.PosInfos ) {
