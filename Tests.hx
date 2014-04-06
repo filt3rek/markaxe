@@ -1,4 +1,3 @@
-package markaxe;
 
 class Tests {
 
